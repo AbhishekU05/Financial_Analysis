@@ -1,6 +1,6 @@
-# 📈 Personal Trade Journal
+# 📈 Equity Analysis Journal
 
-This repository documents my personal investment analyses and trade rationale for Indian equities. Each report reflects why I bought a particular stock, supported by basic fundamentals, valuation reasoning, and risk assessments. The focus is on personal conviction rather than exhaustive institutional-level research.
+This repository contains my analysis for different sectors or companies. 
 
 ---
 
